@@ -1,0 +1,26 @@
+main {
+	background-color: black;
+}
+
+body {
+	background-color: black;
+}
+
+h1, h3, p {
+	color: white;
+	padding: 10px;
+}
+
+.left {
+  float: left;
+  margin-right: 10px;
+}
+
+.right {
+	 float: right;
+  margin-left: 15px;
+}
+
+.medium {
+  width: 300px;
+}
